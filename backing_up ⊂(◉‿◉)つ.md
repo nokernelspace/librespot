@@ -2,6 +2,7 @@
 From `./librespot/` 
 
 `cd oauth`
+
 `cargo run --example oauth_sync`
 
 Copy the entire `access_token` string
